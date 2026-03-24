@@ -32,8 +32,8 @@ This project simulates a full e‑commerce business using synthetic data. It inc
 4. Build dashboards using the provided custom SQL query or design your own.
 
 ## 📫 Contact
-[Your LinkedIn profile]  
-[Your email]
+https://www.linkedin.com/in/hesham-assabri-34530b1a1/) 
+hesham.assabri@gmail.com
 
 ## 🔗 Live Dashboard
-[Link to Looker Studio dashboard, if public]
+https://lookerstudio.google.com/reporting/9c69d64b-1708-4a32-8a24-e975a5d8a256

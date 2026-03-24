@@ -10,6 +10,7 @@ This project simulates a full e‑commerce business using synthetic data. It inc
 
 ## 📁 Repository Contents
 - `generate_ecommerce_data.py` – Python script to generate 1,200 orders, 55 products, 20 employees, 250 customers, and 400+ reviews.
+- `ecommerce_data.sql` – SQL file containing all `INSERT` statements to populate the database.
 - `schema.sql` – SQL script to create all tables (employees, customers, products, orders, order_items, reviews).
 - `dashboard_link.txt` – Link to the interactive Looker Studio dashboard (or note that it can be shared upon request).
 - `screenshots/` – Images of the dashboard pages.

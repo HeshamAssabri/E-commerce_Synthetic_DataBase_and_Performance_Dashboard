@@ -32,7 +32,8 @@ This project simulates a full e‑commerce business using synthetic data. It inc
 4. Build dashboards using the provided custom SQL query or design your own.
 
 ## 📫 Contact
-https://www.linkedin.com/in/hesham-assabri-34530b1a1/) 
+https://www.linkedin.com/in/hesham-assabri-34530b1a1/
+
 hesham.assabri@gmail.com
 
 ## 🔗 Live Dashboard

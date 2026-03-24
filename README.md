@@ -13,7 +13,7 @@ This project simulates a full e‑commerce business using synthetic data. It inc
 - `ecommerce_data.sql` – SQL file containing all `INSERT` statements to populate the database.
 - `schema.sql` – SQL script to create all tables (employees, customers, products, orders, order_items, reviews).
 - `dashboard_link.txt` – Link to the interactive Looker Studio dashboard (or note that it can be shared upon request).
-- `screenshots/` – Images of the dashboard pages.
+- `screenshots` – Images of the dashboard pages.
 
 ## 📈 Dashboard Pages
 1. **Executive Dashboard** – high‑level KPIs, revenue trends, top products, order status.

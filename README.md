@@ -37,5 +37,3 @@ https://www.linkedin.com/in/hesham-assabri-34530b1a1/
 
 hesham.assabri@gmail.com
 
-## 🔗 Live Dashboard
-https://lookerstudio.google.com/reporting/9c69d64b-1708-4a32-8a24-e975a5d8a256
